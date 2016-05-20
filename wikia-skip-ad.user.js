@@ -5,7 +5,7 @@
 // @supportURL   https://github.com/AlorelUserscripts/wikia-remove-intersitial-modal/issues
 // @author       Alorel <a.molcanovas@gmail.com>
 // @version      1.0
-// @description  Skips the "skip this ad" screen when leaving wika.com to an external page
+// @description  Skips the "skip this ad" screen when leaving wikia.com to an external page
 // @author       Alorel <a.molcanovas@gmail.com>
 // @icon         https://cdn.rawgit.com/AlorelUserscripts/wikia-remove-intersitial-modal/1.0/ico.png
 // @include      http*://*.wikia.com*
