@@ -7,7 +7,7 @@
 // @version      1.0.2
 // @description  Skips the "skip this ad" screen when leaving wikia.com to an external page
 // @author       Alorel <a.molcanovas@gmail.com>
-// @icon         https://cdn.rawgit.com/AlorelUserscripts/wikia-remove-intersitial-modal/1.0/ico.png
+// @icon         https://cdn.jsdelivr.net/gh/AlorelUserscripts/wikia-remove-intersitial-modal@1.0/ico.png
 // @include      http*://*.wikia.com*
 // @downloadURL  https://raw.githubusercontent.com/AlorelUserscripts/wikia-remove-intersitial-modal/master/wikia-skip-ad.user.js
 // @updateURL    https://raw.githubusercontent.com/AlorelUserscripts/wikia-remove-intersitial-modal/master/wikia-skip-ad.meta.js
